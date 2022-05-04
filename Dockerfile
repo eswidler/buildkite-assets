@@ -1,4 +1,4 @@
-FROM ruby:2.7.6
+FROM ruby:2.7-slim-bullseye
 
 ARG BUNDLER_VERSION=1.17.3
 
